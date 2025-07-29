@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Jigar Sable";
+            document.title = "Portfolio | Abdullahi Kulei";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
